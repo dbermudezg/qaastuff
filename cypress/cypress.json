@@ -1,0 +1,11 @@
+
+    {
+        "baseUrl":"http://localhost:3000",
+        "viewportHeight": 1080,
+        "viewportWidth": 1920,
+        "chromeWebSecurity": false,
+        "parseSpecialCharSequences": false,
+        "integrationFolder":"cypress/tests",
+        "defaultCommandTimeout": 3000
+    }
+
